@@ -1,1 +1,1 @@
-Project Notes: Version 1 - Created by dev team
+Project Notes: Version 1 - Created by dev team - Bug fix: corrected project description
